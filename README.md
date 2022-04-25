@@ -50,7 +50,10 @@ I'm a COmputer Science Student living in Zurich, Switzerland. Outside Tech, I lo
 
 ### :mailbox: How to reach me
 <a href="mailto:stelios.psychias@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/stelios-psychias-64472813b/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 
  
 
