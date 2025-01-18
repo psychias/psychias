@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Tech Banner"/>
   <h1>Stylianos Psychias</h1>
-  <p>🚀 AI Innovator | NLP Specialist | Full-Stack Developer</p>
+  <p>🚀 AI & NLP Specialist | Full-Stack Developer</p>
 </div>
 
 ---
@@ -27,8 +27,6 @@ Hi, I’m **Stylianos Psychias**, an AI engineer and full-stack developer with a
 - 🎓 **Master’s Student in Computer Linguistics & Neuroinformatics** (UZH, 2024–Present).  
 - 🌟 Experienced in **end-to-end project development**, from ideation to deployment.  
 - 💡 Advocate for leveraging **LLMs** and **scalable architectures** to solve complex problems.  
-
-> *"I don’t just code—I craft impactful solutions."*
 
 ---
 
