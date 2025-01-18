@@ -1,56 +1,68 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
   <h1>Stylianos Psychias</h1>
-  <p align="center">🚀 Innovating at the intersection of Machine Learning, NLP, and Full-Stack Development</p>
+  <p>🚀 Full-Stack Innovator | NLP Enthusiast | Machine Learning Maven</p>
 </div>
-
----
-
-### 🧩 About Me
-
-🎓 **Master's Student in Computer Linguistics & Neuroinformatics**  
-📍 **Based in Zurich, Switzerland**  
-💡 Passionate about **AI Research, Full-Stack Applications, and NLP**  
-
-- 🔍 Exploring **cutting-edge NLP techniques** and their practical applications.  
-- 🛠️ Bridging the gap between **data-driven insights** and **user-centric design**.  
-- 🌐 Strong advocate for **open-source innovation** and **collaborative problem-solving**.  
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"/>
+  <a href="https://www.linkedin.com/in/stylianos-psychias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:stelios.psychias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://psychias.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 ---
 
-### 💼 Professional Highlights
+### 🧠 Who Am I?
 
-#### 🚀 **Game-Changing Projects**
-- **Equipment Analysis App**:  
-  - Designed a statistical performance analysis platform for industrial machines.
-  - Integrated a **Large Language Model (LLM)** for intuitive and interactive data querying.
-  - Tools: `Python` | `PyTorch` | `Azure PostgreSQL` | `JavaScript`
-  
-- **TsOpen**:  
-  - Built a full-stack app to automate **test case generation** for industrial applications.
-  - Combined a `Node.js` backend with `TypeScript` and `HTML` for seamless end-to-end test management.
+I’m a passionate **AI Engineer** and **Full-Stack Developer** bringing data-driven insights to life through creative applications. Whether it’s cracking NLP challenges or engineering scalable solutions, I live at the crossroads of **innovation** and **technology**.
 
-- **Retail Traffic Monitor**:  
-  - Created a real-time, **sensor-based system** to optimize customer flow in stores.
-  - Tools: `Linux` | `Raspberry Pi` | `PostgreSQL`
+- 🌟 **Master’s Student** in Computer Linguistics & Neuroinformatics at UZH.  
+- 💡 Hands-on with **NLP, deep learning, and industrial applications**.
+- 🛠️ Advocate of **LLMs for real-world problem solving**.
 
-#### 🎓 **Academic Excellence**
-- **Stanford CS224N**:  
-  - Mastered concepts like transformers, word embeddings, and attention mechanisms.
-  - Developed and deployed NLP models on real-world data.
-
-- **Bachelor Thesis**:  
-  - A comparative study of ML methods in **sentiment analysis**, achieving a **5.5/6** grade.  
+> *"In tech, I don’t just code. I craft solutions."*
 
 ---
 
-### 🔧 My Tech Toolbox
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 🚀 What Drives Me?
+
+#### 🛠 **Cutting-Edge Projects**
+- **Industrial Machine Insights**:  
+  Built a data analysis app that integrates **LLMs** for intuitive querying and actionable insights.  
+  **Tech Stack**: `Python`, `PyTorch`, `Azure PostgreSQL`, `JavaScript`
+
+- **TsOpen**:  
+  Architected a **full-stack solution** automating test case generation for industrial workflows.  
+  **Tech Stack**: `Node.js`, `TypeScript`, `HTML`, `CSS`, `PyTorch`
+
+- **Retail Optimization**:  
+  Deployed a **real-time traffic monitoring** system with Raspberry Pi and Linux.  
+  **Tech Stack**: `Python`, `PostgreSQL`
+
+#### 📖 **Academic Excellence**
+- **Stanford CS224N**:  
+  Pioneered **NLP applications** using transformers, sequence models, and embeddings.  
+  - Implemented scalable, real-world deep learning pipelines.  
+- **Bachelor Thesis**:  
+  Delivered a **top-graded comparative study** of ML methods in sentiment analysis.
+
+---
+
+### 🔧 My Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,linux,postgresql,azure,html,css,js" alt="Tech Stack"/>
@@ -58,36 +70,40 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psychias&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psychias&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=psychias&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psychias&theme=tokyonight" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
 
+### 💬 Let’s Talk!
 
-- ☕ Love coffee? Let's grab a cup in Zurich and brainstorm our next big project!  
+- 🎯 Let’s collaborate on **AI-driven applications** or explore **NLP breakthroughs**.  
+- ☕ Coffee in Zurich? I’m game—let’s brainstorm something awesome.  
 
----
-
-### 📬 Let’s Connect!
-
-<div id="contact" align="center">
+<div align="center">
   <a href="mailto:stelios.psychias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/stylianos-psychias/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://psychias.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
 ---
 
-### 💡 Motto
-*"Code with precision. Innovate with passion. Collaborate for impact."*
+### ✨ Fun Facts About Me:
+- 🎵 Music runs through my veins. Always on the hunt for the next beat.
+- 📚 AI ethics and philosophy are my go-to reads.  
+- 🥋 Outside of tech, I’m training in **martial arts**—discipline meets focus.
 
+---
+
+### 🌟 Motto
+*"Code boldly, learn endlessly, and build fearlessly."*
