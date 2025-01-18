@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Tech Banner"/>
   <h1>Stylianos Psychias</h1>
-  <p>🚀 Full-Stack Innovator | NLP Enthusiast | Machine Learning Maven</p>
+  <p>🚀 AI Innovator | NLP Specialist | Full-Stack Developer</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:stelios.psychias@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://psychias.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
@@ -20,49 +20,46 @@
 
 ---
 
-### 🧠 Who Am I?
+### 👋 About Me
 
-I’m a passionate **AI Engineer** and **Full-Stack Developer** bringing data-driven insights to life through creative applications. Whether it’s cracking NLP challenges or engineering scalable solutions, I live at the crossroads of **innovation** and **technology**.
+Hi, I’m **Stylianos Psychias**, an AI engineer and full-stack developer with a passion for crafting innovative solutions that make a real-world impact. Whether it's optimizing industrial workflows or pushing the boundaries of NLP, I thrive at the intersection of **technology and creativity**.
 
-- 🌟 **Master’s Student** in Computer Linguistics & Neuroinformatics at UZH.  
-- 💡 Hands-on with **NLP, deep learning, and industrial applications**.
-- 🛠️ Advocate of **LLMs for real-world problem solving**.
+- 🎓 **Master’s Student in Computer Linguistics & Neuroinformatics** (UZH, 2024–Present).  
+- 🌟 Experienced in **end-to-end project development**, from ideation to deployment.  
+- 💡 Advocate for leveraging **LLMs** and **scalable architectures** to solve complex problems.  
 
-> *"In tech, I don’t just code. I craft solutions."*
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600" height="300"/>
-</div>
+> *"I don’t just code—I craft impactful solutions."*
 
 ---
 
-### 🚀 What Drives Me?
+### 🛠️ Key Projects
 
-#### 🛠 **Cutting-Edge Projects**
-- **Industrial Machine Insights**:  
-  Built a data analysis app that integrates **LLMs** for intuitive querying and actionable insights.  
-  **Tech Stack**: `Python`, `PyTorch`, `Azure PostgreSQL`, `JavaScript`
+#### 🧩 **Equipment Analysis App**
+- Designed an interactive tool to analyze industrial machine performance using **LLMs** for natural language querying.  
+- Delivered insights that are easy to interpret, even for non-technical users.  
+- **Tech Stack**: Python, PyTorch, Azure PostgreSQL, JavaScript.
 
-- **TsOpen**:  
-  Architected a **full-stack solution** automating test case generation for industrial workflows.  
-  **Tech Stack**: `Node.js`, `TypeScript`, `HTML`, `CSS`, `PyTorch`
+#### 🔧 **TsOpen**
+- Built a full-stack app that automates **test case generation** for industrial workflows, saving significant time and effort.  
+- **Tech Stack**: Node.js, TypeScript, HTML, CSS, PyTorch.
 
-- **Retail Optimization**:  
-  Deployed a **real-time traffic monitoring** system with Raspberry Pi and Linux.  
-  **Tech Stack**: `Python`, `PostgreSQL`
-
-#### 📖 **Academic Excellence**
-- **Stanford CS224N**:  
-  Pioneered **NLP applications** using transformers, sequence models, and embeddings.  
-  - Implemented scalable, real-world deep learning pipelines.  
-- **Bachelor Thesis**:  
-  Delivered a **top-graded comparative study** of ML methods in sentiment analysis.
+#### 🛍️ **Retail Traffic Monitoring**
+- Developed a real-time, sensor-based analytics system for optimizing retail layouts and staffing.  
+- **Tech Stack**: Python, Linux, Raspberry Pi, PostgreSQL.
 
 ---
 
-### 🔧 My Toolbox
+### 🎓 Academic Highlights
+
+- **Stanford CS224N (NLP with Deep Learning)**  
+  Mastered advanced NLP concepts like **transformers**, **attention mechanisms**, and **sequence models** while applying them to real-world problems.  
+
+- **Bachelor Thesis**  
+  Conducted a comparative analysis of ML methods for **sentiment analysis**, achieving a **5.5/6** grade.  
+
+---
+
+### 🔧 My Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,react,linux,postgresql,azure,html,css,js" alt="Tech Stack"/>
@@ -70,19 +67,18 @@ I’m a passionate **AI Engineer** and **Full-Stack Developer** bringing data-dr
 
 ---
 
-### 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psychias&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psychias&theme=tokyonight" alt="GitHub Streak" width="400"/>
-</div>
+### ✨ Why I Stand Out
+
+- **Proven Experience**: From academic excellence to professional impact, I have a track record of delivering results.  
+- **Technical Versatility**: Skilled in building scalable applications, analyzing data, and implementing state-of-the-art NLP solutions.  
+- **Passion for Innovation**: I constantly seek opportunities to bridge cutting-edge technology with meaningful applications.
 
 ---
 
-### 💬 Let’s Talk!
+### 📬 Let’s Connect
 
-- 🎯 Let’s collaborate on **AI-driven applications** or explore **NLP breakthroughs**.  
-- ☕ Coffee in Zurich? I’m game—let’s brainstorm something awesome.  
+Interested in collaborating or discussing exciting opportunities? Reach out below:
 
 <div align="center">
   <a href="mailto:stelios.psychias@gmail.com">
@@ -98,12 +94,8 @@ I’m a passionate **AI Engineer** and **Full-Stack Developer** bringing data-dr
 
 ---
 
-### ✨ Fun Facts About Me:
-- 🎵 Music runs through my veins. Always on the hunt for the next beat.
-- 📚 AI ethics and philosophy are my go-to reads.  
-- 🥋 Outside of tech, I’m training in **martial arts**—discipline meets focus.
 
 ---
 
-### 🌟 Motto
-*"Code boldly, learn endlessly, and build fearlessly."*
+### 💡 Motto
+*"Code with purpose, innovate with passion, and create with impact."*
